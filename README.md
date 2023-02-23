@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafaelDarius
-- 👀 I’m interested in CSS, JavaScript, React.js
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in CSS, JavaScript, Node.js
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me angkortomm@gmail.com
 
